@@ -1,0 +1,3207 @@
+# Copyright (C) 2024 VWThemes
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ecommerce Landing Page 0.3.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ecommerce-landing-page\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-05T11:53:43+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ecommerce-landing-page\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/block-patterns/block-patterns.php:16
+msgid "Ecommerce Landing Page"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+#: functions.php:400
+msgid "https://www.vwthemes.com/products/free-ecommerce-landing-page-templates"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Ecommerce Landing Page is a user-friendly solution designed to create a compelling online storefront with ease. This theme is specifically crafted to provide a visually appealing and intuitive landing page that captures the essence of your products or services. The theme offers a clean and modern design, ensuring that your products take center stage. The Ecommerce Landing Page WordPress Theme caters to a wide range of businesses, from small startups to established enterprises, looking to establish a strong online presence. E-commerce landing page theme can be customized to fit almost any niche or industry, depending on the products or services being offered. This theme fresh and vibrant design with easy navigation and screen responsiveness. Being a easy customizable, it has a perfect product showcase section, multilingual support, SEO optimization and social media integration. Also VW Themes provide proper customer support and documentation for customer help. The VW Landing Page is a cross-browser compatible, fast loading theme with lifetime updates and supprot. It has a one click demo importer that imports layout in just one click. This theme is compatible with Woocommerce plugin and Ibtana. This theme can be customized for any niche such as Fashion and Apparel, Beauty and Cosmetics, Electronics and Gadgets, Food and Beverage, Handmade and Crafts, Toys and Games, Sports and Outdoor Gear and Books and Literature. Also it can be used by Art and Craft Suppliers, Customized Gifts and Personalized Products,eCommerce, storefront, retail, online shop, marketing, Jewelry and Accessories, Baby Products, Fitness and Sports Apparel and Digital Products. Whether you’re selling physical products, digital downloads, or services, this theme provides the flexibility to tailor the landing page to your specific business needs. It includes customizable sections to showcase featured products, promotions, and key offerings, creating an engaging and immersive experience for visitors. The layout is organized and easy to navigate, guiding potential customers seamlessly through your product offerings. One of the notable benefits of this theme is its user-friendly interface. You don’t need extensive coding skills to set up and customize your landing page. The theme often comes with drag-and-drop functionality and intuitive customization options, allowing you to personalize the look and feel of your page effortlessly. It’s strategically designed to grab attention, convey your brand message effectively, and entice visitors to explore your product catalog further. The goal is to create a seamless and enjoyable browsing experience that encourages conversion."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "VWThemes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.vwthemes.com/"
+msgstr ""
+
+#: 404.php:13
+#: inc/customizer.php:2198
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:14
+#: inc/customizer.php:2212
+msgid "Looks like you have taken a wrong turn, Dont worry, it happens to the best of us."
+msgstr ""
+
+#: 404.php:17
+#: inc/customizer.php:2225
+msgid "Go Back"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:77
+#: inc/customizer.php:1870
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:78
+#: inc/customizer.php:1884
+msgid "Post Comment"
+msgstr ""
+
+#: footer.php:13
+msgid "Footer"
+msgstr ""
+
+#: footer.php:61
+msgid "By VWThemes"
+msgstr ""
+
+#: footer.php:68
+#: footer.php:70
+#: footer.php:72
+msgid "Scroll Up"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Thank you for choosing Ecommerce Landing Page. Would like to have you on our Welcome page so that you can reap all the benefits of our Ecommerce Landing Page."
+msgstr ""
+
+#: functions.php:94
+msgid "GET STARTED"
+msgstr ""
+
+#: functions.php:95
+msgid "VIEW DEMO"
+msgstr ""
+
+#: functions.php:96
+#: inc/customizer.php:2776
+msgid "UPGRADE PRO"
+msgstr ""
+
+#: functions.php:103
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:104
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:113
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Appears on page sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Sidebar 3"
+msgstr ""
+
+#: functions.php:124
+msgid "Appears on Blog Page sidebar"
+msgstr ""
+
+#: functions.php:133
+msgid "Footer Navigation 1"
+msgstr ""
+
+#: functions.php:134
+msgid "Appears on footer 1"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Navigation 2"
+msgstr ""
+
+#: functions.php:144
+msgid "Appears on footer 2"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Navigation 3"
+msgstr ""
+
+#: functions.php:154
+msgid "Appears on footer 3"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer Navigation 4"
+msgstr ""
+
+#: functions.php:164
+msgid "Appears on footer 4"
+msgstr ""
+
+#: functions.php:173
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:174
+msgid "Appears on shop page"
+msgstr ""
+
+#: functions.php:183
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:184
+msgid "Appears on single product page"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Social Icon"
+msgstr ""
+
+#: functions.php:194
+msgid "Appears on right side footer"
+msgstr ""
+
+#: functions.php:391
+msgid "https://preview.vwthemesdemo.com/docs/free-ecommerce-landing-page"
+msgstr ""
+
+#: functions.php:392
+msgid "https://wordpress.org/support/theme/ecommerce-landing-page/"
+msgstr ""
+
+#: functions.php:393
+msgid "https://wordpress.org/support/theme/ecommerce-landing-page/reviews/"
+msgstr ""
+
+#: functions.php:394
+msgid "https://www.vwthemes.com/products/landing-page-wordpress-theme"
+msgstr ""
+
+#: functions.php:395
+msgid "https://www.vwthemes.net/vw-ecommerce-landing-page/"
+msgstr ""
+
+#: functions.php:396
+msgid "https://preview.vwthemesdemo.com/docs/ecommerce-landing-page-pro/"
+msgstr ""
+
+#: functions.php:397
+msgid "https://www.vwthemes.com/faqs/"
+msgstr ""
+
+#: functions.php:398
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr ""
+
+#: functions.php:399
+msgid "https://www.vwthemes.com/contact/"
+msgstr ""
+
+#: functions.php:401
+msgid "https://www.vwthemes.com/products/wp-theme-bundle"
+msgstr ""
+
+#: functions.php:402
+msgid "https://preview.vwthemesdemo.com/docs/theme-bundle/"
+msgstr ""
+
+#: functions.php:407
+msgid "Ecommerce Landing Page WordPress Theme"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:32
+#: image.php:59
+#: image.php:85
+#: image.php:111
+#: image.php:139
+#: image.php:169
+#: image.php:196
+#: single.php:37
+#: single.php:69
+#: single.php:100
+#: single.php:131
+#: single.php:164
+#: single.php:199
+#: single.php:231
+msgid "Previous page"
+msgstr ""
+
+#: image.php:33
+#: image.php:60
+#: image.php:86
+#: image.php:112
+#: image.php:140
+#: image.php:170
+#: image.php:197
+#: single.php:38
+#: single.php:70
+#: single.php:101
+#: single.php:132
+#: single.php:165
+#: single.php:200
+#: single.php:232
+msgid "Next page"
+msgstr ""
+
+#: image.php:34
+#: image.php:61
+#: image.php:87
+#: image.php:113
+#: image.php:141
+#: image.php:171
+#: image.php:198
+#: single.php:39
+#: single.php:71
+#: single.php:102
+#: single.php:133
+#: single.php:166
+#: single.php:201
+#: single.php:233
+msgid "Page"
+msgstr ""
+
+#: inc/block-patterns/block-patterns.php:27
+#: inc/customizer.php:268
+msgid "Banner Section"
+msgstr ""
+
+#: inc/block-patterns/block-patterns.php:36
+#: inc/customizer.php:429
+msgid "Latest News And Blog Section"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Header Image Position"
+msgstr ""
+
+#: inc/customizer.php:66
+#: inc/customizer.php:905
+msgid "Top Left"
+msgstr ""
+
+#: inc/customizer.php:67
+#: inc/customizer.php:906
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:68
+#: inc/customizer.php:907
+msgid "Top Right"
+msgstr ""
+
+#: inc/customizer.php:69
+#: inc/customizer.php:908
+#: inc/customizer.php:957
+#: inc/customizer.php:973
+#: inc/customizer.php:2637
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:70
+#: inc/customizer.php:909
+#: inc/customizer.php:958
+#: inc/customizer.php:974
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:71
+#: inc/customizer.php:910
+#: inc/customizer.php:959
+#: inc/customizer.php:975
+#: inc/customizer.php:2638
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:72
+#: inc/customizer.php:911
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/customizer.php:73
+#: inc/customizer.php:912
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer.php:74
+#: inc/customizer.php:913
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Menus Settings"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Menus Font Size"
+msgstr ""
+
+#: inc/customizer.php:91
+#: inc/customizer.php:258
+#: inc/customizer.php:939
+#: inc/customizer.php:1032
+#: inc/customizer.php:1089
+#: inc/customizer.php:1103
+#: inc/customizer.php:1131
+#: inc/customizer.php:1363
+#: inc/customizer.php:1377
+#: inc/customizer.php:1514
+#: inc/customizer.php:1553
+#: inc/customizer.php:1567
+#: inc/customizer.php:1581
+#: inc/customizer.php:2277
+#: inc/customizer.php:2291
+#: inc/customizer.php:2305
+#: inc/customizer.php:2319
+#: inc/customizer.php:2513
+#: inc/customizer.php:2527
+#: inc/customizer.php:2591
+#: inc/customizer.php:2605
+#: inc/customizer.php:2619
+#: inc/customizer.php:2648
+#: inc/customizer.php:2662
+#: inc/logo/logo-resizer.php:41
+#: inc/logo/logo-resizer.php:54
+#: inc/logo/logo-resizer.php:67
+#: inc/logo/logo-resizer.php:81
+#: inc/logo/logo-resizer.php:106
+#: inc/logo/logo-resizer.php:143
+msgid "Enter a value in pixels. Example:20px"
+msgstr ""
+
+#: inc/customizer.php:93
+#: inc/customizer.php:260
+#: inc/customizer.php:941
+#: inc/customizer.php:1034
+#: inc/customizer.php:1091
+#: inc/customizer.php:1105
+#: inc/customizer.php:1119
+#: inc/customizer.php:1133
+#: inc/customizer.php:1365
+#: inc/customizer.php:1379
+#: inc/customizer.php:1516
+#: inc/customizer.php:1555
+#: inc/customizer.php:1569
+#: inc/customizer.php:1583
+#: inc/customizer.php:2279
+#: inc/customizer.php:2293
+#: inc/customizer.php:2307
+#: inc/customizer.php:2321
+#: inc/customizer.php:2515
+#: inc/customizer.php:2529
+#: inc/customizer.php:2593
+#: inc/customizer.php:2607
+#: inc/customizer.php:2621
+#: inc/customizer.php:2650
+#: inc/customizer.php:2664
+#: inc/logo/logo-resizer.php:43
+#: inc/logo/logo-resizer.php:56
+#: inc/logo/logo-resizer.php:69
+#: inc/logo/logo-resizer.php:83
+#: inc/logo/logo-resizer.php:108
+#: inc/logo/logo-resizer.php:145
+msgid "10px"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Menus Font Weight"
+msgstr ""
+
+#: inc/customizer.php:109
+#: inc/customizer.php:841
+msgid "100"
+msgstr ""
+
+#: inc/customizer.php:110
+#: inc/customizer.php:842
+msgid "200"
+msgstr ""
+
+#: inc/customizer.php:111
+#: inc/customizer.php:843
+msgid "300"
+msgstr ""
+
+#: inc/customizer.php:112
+#: inc/customizer.php:844
+msgid "400"
+msgstr ""
+
+#: inc/customizer.php:113
+#: inc/customizer.php:845
+msgid "500"
+msgstr ""
+
+#: inc/customizer.php:114
+#: inc/customizer.php:846
+msgid "600"
+msgstr ""
+
+#: inc/customizer.php:115
+#: inc/customizer.php:847
+msgid "700"
+msgstr ""
+
+#: inc/customizer.php:116
+#: inc/customizer.php:848
+msgid "800"
+msgstr ""
+
+#: inc/customizer.php:117
+#: inc/customizer.php:849
+msgid "900"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Menus Text Transform"
+msgstr ""
+
+#: inc/customizer.php:130
+#: inc/customizer.php:824
+#: inc/customizer.php:1603
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer.php:131
+#: inc/customizer.php:825
+#: inc/customizer.php:1604
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer.php:132
+#: inc/customizer.php:826
+#: inc/customizer.php:1605
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Menu Item Hover Style"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Zoom In"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Sub Menus Color"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Sub Menus Hover Color"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Topbar Section"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Show / Hide Myaccount"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Add Myaccount Icon"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Show / Hide Cart"
+msgstr ""
+
+#: inc/customizer.php:234
+msgid "Add Cart Icon"
+msgstr ""
+
+#: inc/customizer.php:248
+#: inc/customizer.php:2369
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Sticky Header Padding"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Show / Hide Banner"
+msgstr ""
+
+#: inc/customizer.php:290
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Enjoy Every Single Beat On Headphone"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Banner Content"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Add text here"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Button"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Add Button Text Here"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Add Button URL"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Show / Hide Product"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Product Title"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Select"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Select Popular Product Category"
+msgstr ""
+
+#: inc/customizer.php:399
+msgid "Ecommerce About Section"
+msgstr ""
+
+#: inc/customizer.php:400
+#: inc/customizer.php:529
+#: inc/customizer.php:559
+#: inc/customizer.php:590
+#: inc/customizer.php:620
+#: inc/customizer.php:650
+#: inc/customizer.php:680
+#: inc/customizer.php:710
+#: inc/customizer.php:740
+msgid "<p class=\"premium-opt\">Premium Theme Features</p>"
+msgstr ""
+
+#: inc/customizer.php:410
+msgid ""
+"<p>1. More options for ecommerce about section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for ecommerce about section.</p>"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Add Section Heading"
+msgstr ""
+
+#: inc/customizer.php:441
+msgid "Latest News & Blog"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Add Section Text"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Select Category to display events"
+msgstr ""
+
+#: inc/customizer.php:486
+#: inc/customizer.php:1237
+#: inc/customizer.php:1710
+#: inc/customizer.php:1939
+msgid "Add Author Icon"
+msgstr ""
+
+#: inc/customizer.php:499
+#: inc/customizer.php:1250
+#: inc/customizer.php:1723
+#: inc/customizer.php:1952
+msgid "Show / Hide Author"
+msgstr ""
+
+#: inc/customizer.php:509
+#: inc/customizer.php:1260
+#: inc/customizer.php:1733
+#: inc/customizer.php:1962
+msgid "Add Comments Icon"
+msgstr ""
+
+#: inc/customizer.php:522
+#: inc/customizer.php:1273
+#: inc/customizer.php:1746
+#: inc/customizer.php:1998
+msgid "Show / Hide Comments"
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Eccomerce Flash Product Section"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid ""
+"<p>1. More options for eccomerce flash product section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for eccomerce flash product section.</p>"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Ecommerce Feature Section"
+msgstr ""
+
+#: inc/customizer.php:569
+msgid ""
+"<p>1. More options for ecommerce feature section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for ecommerce feature section.</p>"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Our Headphone Section"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid ""
+"<p>1. More options for our headphone section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for our headphone section.</p>"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Eccomerce Services Section"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid ""
+"<p>1. More options for eccomerce services section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for eccomerce services section.</p>"
+msgstr ""
+
+#: inc/customizer.php:649
+msgid "FAQ Section"
+msgstr ""
+
+#: inc/customizer.php:660
+msgid ""
+"<p>1. More options for faq section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for faq section.</p>"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Ecommerce Gallery Section"
+msgstr ""
+
+#: inc/customizer.php:690
+msgid ""
+"<p>1. More options for ecommerce gallery section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for ecommerce gallery section.</p>"
+msgstr ""
+
+#: inc/customizer.php:709
+msgid "Ecommerce Testimonial Section"
+msgstr ""
+
+#: inc/customizer.php:720
+msgid ""
+"<p>1. More options for ecommerce testimonial section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for ecommerce testimonial section.</p>"
+msgstr ""
+
+#: inc/customizer.php:739
+#: inc/getstart/getstart.php:412
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:750
+msgid ""
+"<p>1. More options for blog section.</p>\n"
+"\t\t\t<p>2. Unlimited images options.</p>\n"
+"\t\t\t<p>3. Color options for blog section.</p>"
+msgstr ""
+
+#: inc/customizer.php:769
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:780
+msgid "Show / Hide Footer"
+msgstr ""
+
+#: inc/customizer.php:790
+msgid "Footer Heading Font Size"
+msgstr ""
+
+#: inc/customizer.php:805
+msgid "Heading Letter Spacing"
+msgstr ""
+
+#: inc/customizer.php:822
+msgid "Heading Text Transform"
+msgstr ""
+
+#: inc/customizer.php:838
+msgid "Heading Font Weight"
+msgstr ""
+
+#: inc/customizer.php:864
+msgid "Footer Style"
+msgstr ""
+
+#: inc/customizer.php:869
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer.php:871
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer.php:872
+msgid "Style 4"
+msgstr ""
+
+#: inc/customizer.php:873
+msgid "Style 5"
+msgstr ""
+
+#: inc/customizer.php:882
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:891
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:902
+msgid "Footer Image Position"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Footer Background Attatchment"
+msgstr ""
+
+#: inc/customizer.php:926
+msgid "fixed"
+msgstr ""
+
+#: inc/customizer.php:927
+msgid "scroll"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "Footer Top Bottom Padding"
+msgstr ""
+
+#: inc/customizer.php:954
+msgid "Footer Widget Heading"
+msgstr ""
+
+#: inc/customizer.php:970
+msgid "Footer Widget Content"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:986
+msgid "Copyright 2021, ....."
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "Show / Hide Copyright"
+msgstr ""
+
+#: inc/customizer.php:1008
+msgid "Copyright Alignment"
+msgstr ""
+
+#: inc/customizer.php:1022
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/customizer.php:1031
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Show / Hide Scroll to Top"
+msgstr ""
+
+#: inc/customizer.php:1062
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:1076
+msgid "Add Scroll to Top Icon"
+msgstr ""
+
+#: inc/customizer.php:1088
+#: inc/customizer.php:2276
+msgid "Icon Font Size"
+msgstr ""
+
+#: inc/customizer.php:1102
+msgid "Icon Top Bottom Padding"
+msgstr ""
+
+#: inc/customizer.php:1116
+#: inc/customizer.php:2304
+msgid "Icon Width"
+msgstr ""
+
+#: inc/customizer.php:1117
+msgid "Enter a value in pixels Example:20px"
+msgstr ""
+
+#: inc/customizer.php:1130
+#: inc/customizer.php:2318
+msgid "Icon Height"
+msgstr ""
+
+#: inc/customizer.php:1145
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1157
+msgid "Blog Post Settings"
+msgstr ""
+
+#: inc/customizer.php:1164
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:1181
+msgid "Blog Post Layouts"
+msgstr ""
+
+#: inc/customizer.php:1195
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:1196
+msgid "Here you can change the sidebar layout for posts. "
+msgstr ""
+
+#: inc/customizer.php:1199
+#: inc/customizer.php:2140
+#: inc/customizer.php:2436
+#: inc/customizer.php:2466
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1200
+#: inc/customizer.php:2141
+#: inc/customizer.php:2437
+#: inc/customizer.php:2467
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1201
+#: inc/customizer.php:2142
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:1202
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:1203
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:1204
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:1214
+#: inc/customizer.php:1687
+#: inc/customizer.php:1916
+msgid "Add Post Date Icon"
+msgstr ""
+
+#: inc/customizer.php:1227
+#: inc/customizer.php:1929
+msgid "Show / Hide Post Date"
+msgstr ""
+
+#: inc/customizer.php:1283
+#: inc/customizer.php:1756
+#: inc/customizer.php:1985
+msgid "Add Time Icon"
+msgstr ""
+
+#: inc/customizer.php:1296
+#: inc/customizer.php:1769
+#: inc/customizer.php:1975
+msgid "Show / Hide Time"
+msgstr ""
+
+#: inc/customizer.php:1306
+msgid "Show / Hide Featured Image"
+msgstr ""
+
+#: inc/customizer.php:1316
+msgid "Featured Image Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1332
+msgid "Featured Image Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:1349
+msgid "Blog Post Featured Image Dimension"
+msgstr ""
+
+#: inc/customizer.php:1352
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:1353
+msgid "Custom Image Size"
+msgstr ""
+
+#: inc/customizer.php:1362
+msgid "Featured Image Custom Width"
+msgstr ""
+
+#: inc/customizer.php:1376
+msgid "Featured Image Custom Height"
+msgstr ""
+
+#: inc/customizer.php:1393
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:1409
+#: inc/customizer.php:1809
+#: inc/customizer.php:2007
+msgid "Add Meta Separator"
+msgstr ""
+
+#: inc/customizer.php:1410
+#: inc/customizer.php:1810
+#: inc/customizer.php:2008
+msgid "Add the seperator for meta box. Example: \"|\", \"/\", etc."
+msgstr ""
+
+#: inc/customizer.php:1422
+msgid "Post Content"
+msgstr ""
+
+#: inc/customizer.php:1425
+#: inc/customizer.php:2064
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:1426
+#: inc/customizer.php:2065
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:1427
+#: inc/customizer.php:2066
+msgid "No Content"
+msgstr ""
+
+#: inc/customizer.php:1438
+msgid "Display Blog Posts"
+msgstr ""
+
+#: inc/customizer.php:1441
+#: inc/customizer.php:2023
+msgid "Into Blocks"
+msgstr ""
+
+#: inc/customizer.php:1442
+#: inc/customizer.php:2024
+msgid "Without Blocks"
+msgstr ""
+
+#: inc/customizer.php:1452
+msgid "Show / Hide Blog Pagination"
+msgstr ""
+
+#: inc/customizer.php:1461
+#: inc/customizer.php:2046
+msgid "Add Excerpt Suffix"
+msgstr ""
+
+#: inc/customizer.php:1463
+#: inc/customizer.php:2048
+msgid "[...]"
+msgstr ""
+
+#: inc/customizer.php:1476
+msgid "Blog Pagination"
+msgstr ""
+
+#: inc/customizer.php:1478
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer.php:1479
+msgid "Older Posts/Newer Posts"
+msgstr ""
+
+#: inc/customizer.php:1484
+msgid "Button Settings"
+msgstr ""
+
+#: inc/customizer.php:1495
+#: inc/customizer.php:1501
+#: inc/customizer.php:2029
+#: inc/customizer.php:2035
+#: template-parts/content-audio.php:74
+#: template-parts/content-gallery.php:63
+#: template-parts/content-image.php:61
+#: template-parts/content-image.php:108
+#: template-parts/content-image.php:154
+#: template-parts/content-video.php:74
+#: template-parts/content.php:61
+#: template-parts/content.php:108
+#: template-parts/content.php:154
+#: template-parts/grid-layout.php:63
+#: template-parts/related-posts.php:60
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:1499
+#: inc/customizer.php:2033
+#: inc/customizer.php:2223
+msgid "Add Button Text"
+msgstr ""
+
+#: inc/customizer.php:1513
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/customizer.php:1536
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/customizer.php:1552
+msgid "Button Top Bottom Padding"
+msgstr ""
+
+#: inc/customizer.php:1566
+msgid "Button Left Right Padding"
+msgstr ""
+
+#: inc/customizer.php:1580
+msgid "Button Letter Spacing"
+msgstr ""
+
+#: inc/customizer.php:1601
+msgid "Button Text Transform"
+msgstr ""
+
+#: inc/customizer.php:1612
+msgid "Related Posts Settings"
+msgstr ""
+
+#: inc/customizer.php:1628
+#: inc/customizer.php:1639
+msgid "Related Post"
+msgstr ""
+
+#: inc/customizer.php:1637
+msgid "Add Related Post Title"
+msgstr ""
+
+#: inc/customizer.php:1650
+msgid "Add Related Post Count"
+msgstr ""
+
+#: inc/customizer.php:1652
+#: inc/getstart/getstart.php:393
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:1664
+msgid "Related Posts Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:1677
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer.php:1700
+msgid "Show / Hide Date"
+msgstr ""
+
+#: inc/customizer.php:1779
+msgid "Show / Hide Tags"
+msgstr ""
+
+#: inc/customizer.php:1789
+#: inc/customizer.php:1831
+msgid "Show / Hide Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:1800
+msgid "Show / Hide Category"
+msgstr ""
+
+#: inc/customizer.php:1821
+msgid "Show / Hide Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:1841
+#: inc/customizer.php:1854
+msgid "Post Navigation Text"
+msgstr ""
+
+#: inc/customizer.php:1843
+msgid "PREVIOUS"
+msgstr ""
+
+#: inc/customizer.php:1856
+msgid "NEXT"
+msgstr ""
+
+#: inc/customizer.php:1868
+msgid "Add Comment Title"
+msgstr ""
+
+#: inc/customizer.php:1882
+msgid "Add Comment Button Text"
+msgstr ""
+
+#: inc/customizer.php:1895
+msgid "Comment Form Width"
+msgstr ""
+
+#: inc/customizer.php:1896
+msgid "Enter a value in %. Example:50%"
+msgstr ""
+
+#: inc/customizer.php:1898
+msgid "100%"
+msgstr ""
+
+#: inc/customizer.php:1906
+msgid "Grid Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:2020
+msgid "Display Grid Posts"
+msgstr ""
+
+#: inc/customizer.php:2061
+msgid "Grid Post Content"
+msgstr ""
+
+#: inc/customizer.php:2076
+msgid "Grid Featured Image Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2092
+msgid "Grid Featured Image Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:2104
+msgid "Other Settings"
+msgstr ""
+
+#: inc/customizer.php:2111
+#: inc/getstart/getstart.php:141
+#: inc/getstart/getstart.php:226
+#: inc/getstart/getstart.php:288
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:2121
+msgid "Width Layouts"
+msgstr ""
+
+#: inc/customizer.php:2122
+msgid "Here you can change the width layout of Website."
+msgstr ""
+
+#: inc/customizer.php:2136
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:2137
+msgid "Here you can change the sidebar layout for pages. "
+msgstr ""
+
+#: inc/customizer.php:2153
+msgid "Pre-Loader"
+msgstr ""
+
+#: inc/customizer.php:2162
+msgid "Pre-Loader Background Color"
+msgstr ""
+
+#: inc/customizer.php:2171
+msgid "Pre-Loader Border Color"
+msgstr ""
+
+#: inc/customizer.php:2180
+msgid "Preloader Background Image"
+msgstr ""
+
+#: inc/customizer.php:2186
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/customizer.php:2196
+#: inc/customizer.php:2243
+msgid "Add Title"
+msgstr ""
+
+#: inc/customizer.php:2210
+#: inc/customizer.php:2257
+msgid "Add Text"
+msgstr ""
+
+#: inc/customizer.php:2233
+msgid "No Results Page Settings"
+msgstr ""
+
+#: inc/customizer.php:2245
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer.php:2259
+#: no-results.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: inc/customizer.php:2267
+msgid "Social Icons Settings"
+msgstr ""
+
+#: inc/customizer.php:2290
+msgid "Icon Padding"
+msgstr ""
+
+#: inc/customizer.php:2329
+msgid "Responsive Media"
+msgstr ""
+
+#: inc/customizer.php:2339
+msgid "Show / Hide Scroll To Top"
+msgstr ""
+
+#: inc/customizer.php:2349
+msgid "Show / Hide Sidebar"
+msgstr ""
+
+#: inc/customizer.php:2359
+msgid "Show / Hide Preloader"
+msgstr ""
+
+#: inc/customizer.php:2379
+msgid "Add Open Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:2392
+msgid "Add Close Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:2404
+msgid "Toggle Button Bg Color"
+msgstr ""
+
+#: inc/customizer.php:2410
+msgid "WooCommerce Layout"
+msgstr ""
+
+#: inc/customizer.php:2422
+msgid "Show / Hide Shop Page Sidebar"
+msgstr ""
+
+#: inc/customizer.php:2433
+msgid "Shop Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:2452
+msgid "Show / Hide Single Product Sidebar"
+msgstr ""
+
+#: inc/customizer.php:2463
+msgid "Single Product Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:2477
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:2478
+#: inc/customizer.php:2495
+msgid "Display on shop page"
+msgstr ""
+
+#: inc/customizer.php:2494
+msgid "Products Per Row"
+msgstr ""
+
+#: inc/customizer.php:2512
+msgid "Products Padding Top Bottom"
+msgstr ""
+
+#: inc/customizer.php:2526
+msgid "Products Padding Left Right"
+msgstr ""
+
+#: inc/customizer.php:2542
+msgid "Products Box Shadow"
+msgstr ""
+
+#: inc/customizer.php:2559
+msgid "Products Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2575
+msgid "Products Button Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2590
+msgid "Products Button Padding Top Bottom"
+msgstr ""
+
+#: inc/customizer.php:2604
+msgid "Products Button Padding Left Right"
+msgstr ""
+
+#: inc/customizer.php:2618
+msgid "Sale Font Size"
+msgstr ""
+
+#: inc/customizer.php:2634
+msgid "Sale Badge Position"
+msgstr ""
+
+#: inc/customizer.php:2647
+msgid "Sale Padding Top Bottom"
+msgstr ""
+
+#: inc/customizer.php:2661
+msgid "Sale Padding Left Right"
+msgstr ""
+
+#: inc/customizer.php:2676
+msgid "Sale Border Radius"
+msgstr ""
+
+#: inc/customizer.php:2693
+msgid "Show / Hide Related product"
+msgstr ""
+
+#: inc/customizer.php:2775
+msgid "ECOMMERCE PRO"
+msgstr ""
+
+#: inc/customizer.php:2783
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: inc/customizer.php:2784
+msgid "DOCS"
+msgstr ""
+
+#: inc/getstart/getstart.php:5
+msgid "About Ecommerce Landing Page "
+msgstr ""
+
+#: inc/getstart/getstart.php:24
+msgid "Welcome to Ecommerce Landing Page "
+msgstr ""
+
+#: inc/getstart/getstart.php:24
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/getstart/getstart.php:25
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr ""
+
+#: inc/getstart/getstart.php:32
+msgid "Buy Ecommerce Landing Page at 20% Discount"
+msgstr ""
+
+#: inc/getstart/getstart.php:33
+msgid "Use Coupon"
+msgstr ""
+
+#: inc/getstart/getstart.php:33
+msgid "vwpro20"
+msgstr ""
+
+#: inc/getstart/getstart.php:35
+#: inc/getstart/getstart.php:559
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/getstart/getstart.php:42
+msgid "Setup With Customizer"
+msgstr ""
+
+#: inc/getstart/getstart.php:43
+msgid "Setup With Block Pattern"
+msgstr ""
+
+#: inc/getstart/getstart.php:44
+msgid "Setup With Gutunberg Block"
+msgstr ""
+
+#: inc/getstart/getstart.php:45
+msgid "Woocommerce Product Addons"
+msgstr ""
+
+#: inc/getstart/getstart.php:46
+msgid "Get Premium"
+msgstr ""
+
+#: inc/getstart/getstart.php:47
+msgid "Support"
+msgstr ""
+
+#: inc/getstart/getstart.php:48
+#: inc/getstart/getstart.php:347
+msgid "Get 250+ Themes Bundle at $99"
+msgstr ""
+
+#: inc/getstart/getstart.php:71
+#: inc/getstart/getstart.php:180
+msgid "Skip"
+msgstr ""
+
+#: inc/getstart/getstart.php:80
+msgid "Lite Theme Information"
+msgstr ""
+
+#: inc/getstart/getstart.php:82
+msgid "Ecommerce Landing Page is a user-friendly solution designed to create a compelling online storefront with ease. This theme is specifically crafted to provide a visually appealing and intuitive landing page that captures the essence of your products or services. The theme offers a clean and modern design, ensuring that your products take center stage. The Ecommerce Landing Page WordPress Theme caters to a wide range of businesses, from small startups to established enterprises, looking to establish a strong online presence. E-commerce landing page theme can be customized to fit almost any niche or industry, depending on the products or services being offered. This theme fresh and vibrant design with easy navigation and screen responsiveness. Being a easy customizable, it has a perfect product showcase section, multilingual support, SEO optimization and social media integration. Also VW Themes provide proper customer support and documentation for customer help. The VW Landing Page is a cross-browser compatible, fast loading theme with lifetime updates and supprot. It has a one click demo importer that imports layout in just one click. This theme is compatible with Woocommerce plugin and Ibtana. This theme can be customized for any niche such as Fashion and Apparel, Beauty and Cosmetics, Electronics and Gadgets, Food and Beverage, Handmade and Crafts, Toys and Games, Sports and Outdoor Gear and Books and Literature. Also it can be used by Art and Craft Suppliers, Customized Gifts and Personalized Products, Jewelry and Accessories, Baby Products, Fitness and Sports Apparel and Digital Products.  Whether youre selling physical products, digital downloads, or services, this theme provides the flexibility to tailor the landing page to your specific business needs. It includes customizable sections to showcase featured products, promotions, and key offerings, creating an engaging and immersive experience for visitors. The layout is organized and easy to navigate, guiding potential customers seamlessly through your product offerings. One of the notable benefits of this theme is its user-friendly interface. You dont need extensive coding skills to set up and customize your landing page. The theme often comes with drag-and-drop functionality and intuitive customization options, allowing you to personalize the look and feel of your page effortlessly. Its strategically designed to grab attention, convey your brand message effectively, and entice visitors to explore your product catalog further. The goal is to create a seamless and enjoyable browsing experience that encourages conversion. Demo: https://www.vwthemes.net/vw-ecommerce-landing-page/"
+msgstr ""
+
+#: inc/getstart/getstart.php:84
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/getstart/getstart.php:85
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr ""
+
+#: inc/getstart/getstart.php:87
+#: inc/getstart/getstart.php:162
+#: inc/getstart/getstart.php:621
+msgid "Documentation"
+msgstr ""
+
+#: inc/getstart/getstart.php:90
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/getstart/getstart.php:91
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr ""
+
+#: inc/getstart/getstart.php:93
+msgid "Customizing"
+msgstr ""
+
+#: inc/getstart/getstart.php:96
+msgid "Having Trouble, Need Support?"
+msgstr ""
+
+#: inc/getstart/getstart.php:97
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr ""
+
+#: inc/getstart/getstart.php:99
+msgid "Support Forum"
+msgstr ""
+
+#: inc/getstart/getstart.php:102
+msgid "Reviews & Testimonials"
+msgstr ""
+
+#: inc/getstart/getstart.php:103
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr ""
+
+#: inc/getstart/getstart.php:105
+msgid "Reviews"
+msgstr ""
+
+#: inc/getstart/getstart.php:109
+#: inc/getstart/getstart.php:203
+#: inc/getstart/getstart.php:265
+msgid "Link to customizer"
+msgstr ""
+
+#: inc/getstart/getstart.php:114
+#: inc/getstart/getstart.php:208
+#: inc/getstart/getstart.php:270
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/getstart/getstart.php:117
+#: inc/getstart/getstart.php:211
+#: inc/getstart/getstart.php:273
+msgid "Post settings"
+msgstr ""
+
+#: inc/getstart/getstart.php:123
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/getstart/getstart.php:126
+msgid "Latest News and Blog Section"
+msgstr ""
+
+#: inc/getstart/getstart.php:132
+#: inc/getstart/getstart.php:216
+#: inc/getstart/getstart.php:278
+msgid "Menus"
+msgstr ""
+
+#: inc/getstart/getstart.php:135
+#: inc/getstart/getstart.php:229
+#: inc/getstart/getstart.php:291
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/getstart/getstart.php:144
+#: inc/getstart/getstart.php:220
+#: inc/getstart/getstart.php:282
+msgid "Footer Text"
+msgstr ""
+
+#: inc/getstart/getstart.php:151
+msgid "How to set up Home Page Template"
+msgstr ""
+
+#: inc/getstart/getstart.php:153
+msgid "Follow these instructions to setup Home page."
+msgstr ""
+
+#: inc/getstart/getstart.php:154
+msgid "1. Create a new page :"
+msgstr ""
+
+#: inc/getstart/getstart.php:154
+#: inc/getstart/getstart.php:158
+msgid " Go to "
+msgstr ""
+
+#: inc/getstart/getstart.php:155
+msgid " Dashboard >> Pages >> Add New Page"
+msgstr ""
+
+#: inc/getstart/getstart.php:156
+msgid "Name it as \"Home\" then select the template \"Custom Home Page\"."
+msgstr ""
+
+#: inc/getstart/getstart.php:158
+msgid "2. Set the front page:"
+msgstr ""
+
+#: inc/getstart/getstart.php:159
+msgid " Settings >> Reading "
+msgstr ""
+
+#: inc/getstart/getstart.php:160
+msgid "Select the option of Static Page, now select the page you created to be the homepage, while another page to be your default page."
+msgstr ""
+
+#: inc/getstart/getstart.php:162
+msgid " Once you are done with setup, then follow the"
+msgstr ""
+
+#: inc/getstart/getstart.php:190
+msgid "Block Patterns"
+msgstr ""
+
+#: inc/getstart/getstart.php:192
+msgid "Follow the below instructions to setup Home page with Block Patterns."
+msgstr ""
+
+#: inc/getstart/getstart.php:193
+msgid "Click on Below Add new page button >> Click on \"+\" Icon."
+msgstr ""
+
+#: inc/getstart/getstart.php:195
+msgid "Add New Page"
+msgstr ""
+
+#: inc/getstart/getstart.php:198
+msgid "Click on Patterns Tab >> Click on Theme Name >> Select the Sections >> Publish."
+msgstr ""
+
+#: inc/getstart/getstart.php:257
+msgid "Gutunberg Blocks"
+msgstr ""
+
+#: inc/getstart/getstart.php:260
+msgid "Ibtana Settings"
+msgstr ""
+
+#: inc/getstart/getstart.php:320
+msgid "Woocommerce Products Blocks"
+msgstr ""
+
+#: inc/getstart/getstart.php:323
+msgid "Follow the below instructions to setup Products Templates."
+msgstr ""
+
+#: inc/getstart/getstart.php:324
+msgid "1. First you need to activate these plugins"
+msgstr ""
+
+#: inc/getstart/getstart.php:325
+msgid "1. Ibtana - WordPress Website Builder "
+msgstr ""
+
+#: inc/getstart/getstart.php:326
+msgid "2. Ibtana - Ecommerce Product Addons."
+msgstr ""
+
+#: inc/getstart/getstart.php:327
+msgid "3. Woocommerce"
+msgstr ""
+
+#: inc/getstart/getstart.php:329
+msgid "2. Go To Dashboard >> Ibtana Settings >> Woocommerce Templates"
+msgstr ""
+
+#: inc/getstart/getstart.php:331
+msgid "Woocommerce Templates"
+msgstr ""
+
+#: inc/getstart/getstart.php:333
+msgid "You can create a template as you like."
+msgstr ""
+
+#: inc/getstart/getstart.php:339
+msgid "Premium Theme Information"
+msgstr ""
+
+#: inc/getstart/getstart.php:342
+msgid "Ecommerce Landing Page is a user-friendly solution designed to create a compelling online storefront with ease. This theme is specifically crafted to provide a visually appealing and intuitive landing page that captures the essence of your products or services. The theme offers a clean and modern design, ensuring that your products take center stage. The Ecommerce Landing Page WordPress Theme caters to a wide range of businesses, from small startups to established enterprises, looking to establish a strong online presence. Whether you&#39;re selling physical products, digital downloads, or services, this theme provides the flexibility to tailor the landing page to your specific business needs. It includes customizable sections to showcase featured products, promotions, and key offerings, creating an engaging and immersive experience for visitors. The layout is organized and easy to navigate, guiding potential customers seamlessly through your product offerings. One of the notable benefits of this theme is its user-friendly interface. You don&#39;t need extensive coding skills to set up and customize your landing page. The theme often comes with drag-and-drop functionality and intuitive customization options, allowing you to personalize the look and feel of your page effortlessly. It&#39;s strategically designed to grab attention, convey your brand message effectively, and entice visitors to explore your product catalog further. The goal is to create a seamless and enjoyable browsing experience that encourages conversion."
+msgstr ""
+
+#: inc/getstart/getstart.php:344
+msgid "Live Demo"
+msgstr ""
+
+#: inc/getstart/getstart.php:345
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/getstart/getstart.php:346
+msgid "Pro Documentation"
+msgstr ""
+
+#: inc/getstart/getstart.php:354
+msgid "Theme Features"
+msgstr ""
+
+#: inc/getstart/getstart.php:361
+msgid "Free Themes"
+msgstr ""
+
+#: inc/getstart/getstart.php:362
+msgid "Premium Themes"
+msgstr ""
+
+#: inc/getstart/getstart.php:367
+msgid "Theme Customization"
+msgstr ""
+
+#: inc/getstart/getstart.php:372
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/getstart/getstart.php:377
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/getstart/getstart.php:382
+msgid "Social Media Links"
+msgstr ""
+
+#: inc/getstart/getstart.php:387
+msgid "Product Slider"
+msgstr ""
+
+#: inc/getstart/getstart.php:392
+msgid "Number of Products"
+msgstr ""
+
+#: inc/getstart/getstart.php:394
+msgid "Unlimited"
+msgstr ""
+
+#: inc/getstart/getstart.php:397
+msgid "Template Pages"
+msgstr ""
+
+#: inc/getstart/getstart.php:398
+#: inc/getstart/getstart.php:403
+msgid "1"
+msgstr ""
+
+#: inc/getstart/getstart.php:399
+msgid "6"
+msgstr ""
+
+#: inc/getstart/getstart.php:402
+msgid "Home Page Template"
+msgstr ""
+
+#: inc/getstart/getstart.php:404
+msgid "5"
+msgstr ""
+
+#: inc/getstart/getstart.php:407
+msgid "Theme sections"
+msgstr ""
+
+#: inc/getstart/getstart.php:408
+msgid "2"
+msgstr ""
+
+#: inc/getstart/getstart.php:409
+msgid "10"
+msgstr ""
+
+#: inc/getstart/getstart.php:414
+msgid "1(Full width/Left/Right Sidebar)"
+msgstr ""
+
+#: inc/getstart/getstart.php:417
+msgid "Color Pallete For Particular Sections"
+msgstr ""
+
+#: inc/getstart/getstart.php:422
+msgid "Global Color Option"
+msgstr ""
+
+#: inc/getstart/getstart.php:427
+msgid "Section Reordering"
+msgstr ""
+
+#: inc/getstart/getstart.php:432
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/getstart/getstart.php:437
+msgid "Allow To Set Site Title, Tagline, Logo"
+msgstr ""
+
+#: inc/getstart/getstart.php:442
+msgid "Enable Disable Options On All Sections, Logo"
+msgstr ""
+
+#: inc/getstart/getstart.php:447
+msgid "Full Documentation"
+msgstr ""
+
+#: inc/getstart/getstart.php:452
+msgid "Latest WordPress Compatibility"
+msgstr ""
+
+#: inc/getstart/getstart.php:457
+msgid "Woo-Commerce Compatibility"
+msgstr ""
+
+#: inc/getstart/getstart.php:462
+msgid "Support 3rd Party Plugins"
+msgstr ""
+
+#: inc/getstart/getstart.php:467
+msgid "Secure and Optimized Code"
+msgstr ""
+
+#: inc/getstart/getstart.php:472
+msgid "Exclusive Functionalities"
+msgstr ""
+
+#: inc/getstart/getstart.php:477
+msgid "Section Enable / Disable"
+msgstr ""
+
+#: inc/getstart/getstart.php:482
+msgid "Section Google Font Choices"
+msgstr ""
+
+#: inc/getstart/getstart.php:487
+msgid "Gallery"
+msgstr ""
+
+#: inc/getstart/getstart.php:492
+msgid "Simple & Mega Menu Option"
+msgstr ""
+
+#: inc/getstart/getstart.php:497
+msgid "Support to add custom CSS / JS "
+msgstr ""
+
+#: inc/getstart/getstart.php:502
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/getstart/getstart.php:507
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr ""
+
+#: inc/getstart/getstart.php:512
+msgid "Premium Membership"
+msgstr ""
+
+#: inc/getstart/getstart.php:517
+msgid "Budget Friendly Value"
+msgstr ""
+
+#: inc/getstart/getstart.php:522
+msgid "Priority Error Fixing"
+msgstr ""
+
+#: inc/getstart/getstart.php:527
+msgid "Custom Feature Addition"
+msgstr ""
+
+#: inc/getstart/getstart.php:532
+msgid "All Access Theme Pass"
+msgstr ""
+
+#: inc/getstart/getstart.php:537
+msgid "Seamless Customer Support"
+msgstr ""
+
+#: inc/getstart/getstart.php:542
+msgid "WordPress 6.4 or later"
+msgstr ""
+
+#: inc/getstart/getstart.php:547
+msgid "PHP 8.2 or 8.3"
+msgstr ""
+
+#: inc/getstart/getstart.php:552
+msgid "MySQL 5.6 (or greater) | MariaDB 10.0 (or greater)"
+msgstr ""
+
+#: inc/getstart/getstart.php:569
+msgid "Pro Version"
+msgstr ""
+
+#: inc/getstart/getstart.php:570
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr ""
+
+#: inc/getstart/getstart.php:572
+msgid "Get Pro"
+msgstr ""
+
+#: inc/getstart/getstart.php:576
+msgid "Pre-purchase Queries"
+msgstr ""
+
+#: inc/getstart/getstart.php:577
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr ""
+
+#: inc/getstart/getstart.php:579
+msgid "Question"
+msgstr ""
+
+#: inc/getstart/getstart.php:583
+msgid "Child Theme"
+msgstr ""
+
+#: inc/getstart/getstart.php:584
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr ""
+
+#: inc/getstart/getstart.php:586
+msgid "About Child Theme"
+msgstr ""
+
+#: inc/getstart/getstart.php:591
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: inc/getstart/getstart.php:592
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr ""
+
+#: inc/getstart/getstart.php:594
+msgid "View FAQ"
+msgstr ""
+
+#: inc/getstart/getstart.php:599
+msgid "Support Queries"
+msgstr ""
+
+#: inc/getstart/getstart.php:600
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr ""
+
+#: inc/getstart/getstart.php:602
+msgid "Contact Us"
+msgstr ""
+
+#: inc/getstart/getstart.php:608
+msgid "WP Theme Bundle"
+msgstr ""
+
+#: inc/getstart/getstart.php:609
+msgid "Enhance your website effortlessly with our WP Theme Bundle. Get access to 250+ premium WordPress themes and 5+ powerful plugins, all designed to meet diverse business needs. Enjoy seamless integration with any plugins, ultimate customization flexibility, and regular updates to keep your site current and secure. Plus, benefit from our dedicated customer support, ensuring a smooth and professional web experience."
+msgstr ""
+
+#: inc/getstart/getstart.php:611
+msgid "Features:"
+msgstr ""
+
+#: inc/getstart/getstart.php:612
+msgid "250+ Premium Themes & 5+ Plugins."
+msgstr ""
+
+#: inc/getstart/getstart.php:613
+msgid "Seamless Integration."
+msgstr ""
+
+#: inc/getstart/getstart.php:614
+msgid "Customization Flexibility."
+msgstr ""
+
+#: inc/getstart/getstart.php:615
+msgid "Regular Updates."
+msgstr ""
+
+#: inc/getstart/getstart.php:616
+msgid "Dedicated Support."
+msgstr ""
+
+#: inc/getstart/getstart.php:620
+msgid "Buy Now"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:40
+#: inc/tgm/tgm.php:10
+msgid "Ibtana - WordPress Website Builder"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:43
+msgid "It is recommended that you install the Ibtana - WordPress Website Builder plugin to show advance blocks and templates on pages"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:53
+#: inc/getstart/plugin-activation.php:246
+msgid "Installing"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:54
+#: inc/getstart/plugin-activation.php:247
+msgid "Activating"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:55
+#: inc/getstart/plugin-activation.php:248
+msgid "Error"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:127
+#: inc/getstart/plugin-activation.php:322
+msgid "Install %s Now"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:129
+#: inc/getstart/plugin-activation.php:324
+msgid "Install & Activate"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:146
+#: inc/getstart/plugin-activation.php:341
+msgid "Activate %s Now"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:148
+#: inc/getstart/plugin-activation.php:343
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:151
+#: inc/getstart/plugin-activation.php:346
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:233
+msgid "Ibtana - Ecommerce Product Addons"
+msgstr ""
+
+#: inc/getstart/plugin-activation.php:236
+msgid "It is recommended that you install the Ibtana - Ecommerce Product Addons plugin to show advance Products blocks and templates on pages"
+msgstr ""
+
+#: inc/icon-picker.php:19
+msgctxt "placeholder"
+msgid "Icon"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:40
+msgid "Logo Width"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:53
+msgid "Logo Height"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:66
+msgid "Logo Padding"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:80
+msgid "Logo Margin"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:95
+msgid "Show / Hide Site Title"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:105
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:120
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:133
+msgid "Show / Hide Site Tagline"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:142
+msgid "Site Tagline Font Size"
+msgstr ""
+
+#: inc/logo/logo-resizer.php:157
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/template-tags.php:129
+msgid "Ecommerce Landing Page Meta Fields"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgid "Review Text :"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgid "Review Count :"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgid "Discount Text :"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Orignal Price Text:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm.php:17
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:10
+msgid "VW About us"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:11
+msgid "Widget for about us section in sidebar"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:56
+#: inc/themes-widgets/contact-us-widget.php:59
+#: inc/themes-widgets/social-icon.php:58
+msgid "Title:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:60
+msgid "Author Name:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:64
+msgid "Designation:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:68
+msgid "Description:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:72
+msgid "Button Text:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:76
+msgid "Button Url:"
+msgstr ""
+
+#: inc/themes-widgets/about-us-widget.php:80
+msgid "Image Url:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:10
+msgid "VW Contact us"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:11
+msgid "Widget for contact us section in sidebar"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:30
+msgid "Phone Number: "
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:31
+msgid "Email ID: "
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:32
+msgid "Address: "
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:33
+msgid "Opening Time: "
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:63
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:67
+msgid "Email id:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:71
+msgid "Address:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:75
+msgid "Opening Time:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:79
+msgid "Longitude:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:83
+msgid "Latitude:"
+msgstr ""
+
+#: inc/themes-widgets/contact-us-widget.php:87
+msgid "Contact Form Shortcode:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:11
+msgid "VW Social Icon"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:12
+msgid "Widget for Social icons section"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:30
+msgid "Facebook"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:31
+msgid "Twitter"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:32
+msgid "Linkedin"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:33
+msgid "Pinterest"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:34
+msgid "Tumblr"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:35
+msgid "Instagram"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:36
+msgid "Youtube"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:62
+msgid "Facebook:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:66
+msgid "Twitter:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:70
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:74
+msgid "Instagram:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:78
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:82
+msgid "Tumblr:"
+msgstr ""
+
+#: inc/themes-widgets/social-icon.php:86
+msgid "Youtube:"
+msgstr ""
+
+#: inc/typography/ctypo.php:27
+msgid "Theme Typography"
+msgstr ""
+
+#: inc/typography/ctypo.php:31
+msgid "Content Typography"
+msgstr ""
+
+#: inc/typography/ctypo.php:36
+msgid "Headings Typography"
+msgstr ""
+
+#: inc/typography/ctypo.php:41
+msgid "Global Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:49
+msgid "Highlight Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:50
+msgid "It will change the highlight color in one click."
+msgstr ""
+
+#: inc/typography/ctypo.php:139
+msgid "Paragraph Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:140
+#: inc/typography/ctypo.php:146
+msgid "Select how you want your paragraphs to appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:145
+msgid "Paragraph Typography"
+msgstr ""
+
+#: inc/typography/ctypo.php:166
+msgid "Anchor Tag Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:167
+#: inc/typography/ctypo.php:173
+msgid "Select how you want your a tag to appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:172
+msgid "Anchor Tag Typography"
+msgstr ""
+
+#: inc/typography/ctypo.php:193
+msgid "Heading 1 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:194
+#: inc/typography/ctypo.php:200
+msgid "Select how heading 1 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:199
+msgid "Heading 1"
+msgstr ""
+
+#: inc/typography/ctypo.php:220
+msgid "Heading 2 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:221
+#: inc/typography/ctypo.php:227
+msgid "Select how heading 2 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:226
+msgid "Heading 2"
+msgstr ""
+
+#: inc/typography/ctypo.php:247
+msgid "Heading 3 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:248
+#: inc/typography/ctypo.php:254
+msgid "Select how heading 3 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:253
+msgid "Heading 3"
+msgstr ""
+
+#: inc/typography/ctypo.php:274
+msgid "Heading 4 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:275
+#: inc/typography/ctypo.php:281
+msgid "Select how heading 4 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:280
+msgid "Heading 4"
+msgstr ""
+
+#: inc/typography/ctypo.php:301
+msgid "Heading 5 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:302
+#: inc/typography/ctypo.php:308
+msgid "Select how heading 5 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:307
+msgid "Heading 5"
+msgstr ""
+
+#: inc/typography/ctypo.php:328
+msgid "Heading 6 Color"
+msgstr ""
+
+#: inc/typography/ctypo.php:329
+#: inc/typography/ctypo.php:335
+msgid "Select how heading 6 should appear."
+msgstr ""
+
+#: inc/typography/ctypo.php:334
+msgid "Heading 6"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:49
+msgid "Font Family"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:50
+msgid "Font Size"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:51
+msgid "Font Weight"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:52
+msgid "Font Style"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:53
+msgid "Line Height"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:54
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:243
+msgid "No Fonts"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:244
+msgid "Abril Fatface"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:245
+msgid "Acme"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:246
+msgid "Anton"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:247
+msgid "Architects Daughter"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:248
+msgid "Arimo"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:249
+msgid "Arsenal"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:250
+msgid "Arvo"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:251
+msgid "Alegreya"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:252
+msgid "Alfa Slab One"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:253
+msgid "Averia Serif Libre"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:254
+msgid "Bangers"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:255
+msgid "Boogaloo"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:256
+msgid "Bad Script"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:257
+msgid "Bitter"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:258
+msgid "Bree Serif"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:259
+msgid "BenchNine"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:260
+msgid "Cabin"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:261
+msgid "Cardo"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:262
+msgid "Courgette"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:263
+msgid "Cherry Swash"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:264
+msgid "Cormorant Garamond"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:265
+msgid "Crimson Text"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:266
+msgid "Cuprum"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:267
+msgid "Cookie"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:268
+msgid "Chewy"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:282
+msgid "No Fonts weight"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:283
+msgid "Thin"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:284
+msgid "Light"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:285
+#: inc/typography/customize/control-typography.php:303
+msgid "Normal"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:286
+msgid "Medium"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Bold"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Ultra Bold"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:302
+msgid "No Fonts Style"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Italic"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:305
+msgid "Oblique"
+msgstr ""
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr ""
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr ""
+
+#: page-template/custom-home-page.php:24
+msgid "BUY NOW"
+msgstr ""
+
+#: page-template/custom-home-page.php:170
+#: template-parts/content-audio.php:53
+#: template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40
+#: template-parts/content-image.php:85
+#: template-parts/content-image.php:131
+#: template-parts/content-video.php:53
+#: template-parts/content.php:40
+#: template-parts/content.php:85
+#: template-parts/content.php:131
+#: template-parts/grid-layout.php:38
+#: template-parts/single-post-layout.php:30
+msgid "0 Comment"
+msgstr ""
+
+#: page-template/custom-home-page.php:170
+#: template-parts/content-audio.php:53
+#: template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40
+#: template-parts/content-image.php:85
+#: template-parts/content-image.php:131
+#: template-parts/content-video.php:53
+#: template-parts/content.php:40
+#: template-parts/content.php:85
+#: template-parts/content.php:131
+#: template-parts/grid-layout.php:38
+#: template-parts/single-post-layout.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: page-template/custom-home-page.php:170
+#: template-parts/content-audio.php:53
+#: template-parts/content-gallery.php:42
+#: template-parts/content-image.php:40
+#: template-parts/content-image.php:85
+#: template-parts/content-image.php:131
+#: template-parts/content-video.php:53
+#: template-parts/content.php:40
+#: template-parts/content.php:85
+#: template-parts/content.php:131
+#: template-parts/grid-layout.php:38
+#: template-parts/single-post-layout.php:30
+msgid "% Comments"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Ibtana Page Template"
+msgstr ""
+
+#. translators: %s: search term
+#: search.php:13
+msgid "Results For: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:16
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:30
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:36
+msgid "Dropdown Categories"
+msgstr ""
+
+#: sidebar.php:42
+msgid "Tag Cloud"
+msgstr ""
+
+#: template-parts/header/navigation.php:13
+msgid "Open Button"
+msgstr ""
+
+#: template-parts/header/navigation.php:16
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/header/navigation.php:26
+msgid "Close Button"
+msgstr ""
+
+#: template-parts/header/top-bar.php:60
+msgid "Login / Register"
+msgstr ""
+
+#: template-parts/header/top-bar.php:69
+msgid "shopping cart"
+msgstr ""
+
+#: template-parts/header/top-bar.php:69
+msgid "Shopping Cart"
+msgstr ""
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr ""
+
+#: template-parts/single-post-layout.php:46
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/single-post-layout.php:66
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr ""
+
+#: template-parts/single-post-layout.php:72
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/single-post-layout.php:75
+msgid "Previous post:"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
